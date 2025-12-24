@@ -1,6 +1,6 @@
 # 💼 CareerHub
 
-**CareerHub** is a complete modernization of my original **2018 full-stack capstone project**, which was built using the **legacy .NET Framework**.  
+**CareerHub** is a complete modernization of my 👉 [Previous Capstone Project (2018)](https://github.com/jpnine/CareerCloud)  , which was built using the **legacy .NET Framework**.  
 The primary goal of this project is to **re-architect, modernize, and future-proof** the application using **.NET 10**, modern frontend frameworks, and enterprise-grade system design best practices.
 
 This repository serves as both a **real-world platform** and a **learning playground** for experimenting with modern backend, frontend, and infrastructure patterns.
@@ -86,13 +86,5 @@ This project will continue evolving as new .NET, cloud, and frontend technologie
 ---
 
 ## 📄 License
-
 MIT
 
----
-
-## 🔗 Previous Project (2018)
-
-The original version of this project was created in **2018** using **ASP.NET MVC 5**, **ADO.NET**, and **Bootstrap 3**.  
-You can view the archived version here:  
-👉 [Previous Capstone Project (2018)](https://github.com/jpnine/CareerCloud)  
