@@ -13,7 +13,8 @@ This repository serves as both a **real-world platform** and a **learning playgr
 - Apply clean architecture and system design best practices
 - Build a scalable, testable, and cloud-ready application
 - Support multiple frontend implementations
-- Demonstrate real-world enterprise design patterns
+- Integrate AI/ML capabilities into a real-world platform
+- Demonstrate enterprise-grade patterns and tooling
 
 ---
 
